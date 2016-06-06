@@ -19,3 +19,12 @@ Para entender externamente lo que fitmass.C al correr es llamar a T.C y este a s
 
 
 ¿Que son RooRealVar, RooBreitWigner,RooGaussian,RooPolynomial?
+
+
+¿Que hace T:T(TTree *tree):fChain(0) en T.h?, lo que supongo es que saca los datos para las variables definidas anteriormente de esa linea, de los archivos .root, ¿Es correcto?
+
+
+¿Que significa la parte IsOpen() en T.h?
+
+
+¿Que hace la parte T::~T() en T.h?
